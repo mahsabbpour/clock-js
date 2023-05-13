@@ -1,10 +1,10 @@
 # clock-js
 
-- [Demo Project]( https://mahsabbpour.github.io/ToDoList/)
+- [Demo Project]( https://mahsabbpour.github.io/clock-js/)
 
 - Developed by Mahsa Babapour
 
-- Created - 2023-05-06
+- Created - 2023-05-13
 
 - Technologies Used - Html , scss , js 
 
